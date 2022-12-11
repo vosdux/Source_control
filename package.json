@@ -16,7 +16,7 @@
     "body-parser": "^1.19.0",
     "config": "^3.2.4",
     "docx": "^5.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.3.1",
     "gridfs-stream": "^1.1.1",
     "html-pdf": "^2.2.0",
